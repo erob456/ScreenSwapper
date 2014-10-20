@@ -2,15 +2,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/uglyGreen"
     tools:context="${relativePackage}.${activityClass}" >
 
     <Button
-        android:id="@+id/buttonSwap"
+        android:id="@+id/firstScreenButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="155dp"
         android:text="Button" />
 
 </RelativeLayout>
