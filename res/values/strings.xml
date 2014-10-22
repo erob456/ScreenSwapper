@@ -3,5 +3,7 @@
 
     <string name="app_name">ScreenSwapper</string>
     <string name="hello_world">Hello world!</string>
+    <string name="buttonText">Press to change screens</string>
+    <string name="secondScreenButton">Close Activity</string>
 
 </resources>
